@@ -1,0 +1,4 @@
+---
+# tasks file for sqlserver
+- name: sqlserver
+  command: touch sql.txt

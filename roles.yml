@@ -1,0 +1,6 @@
+---
+- hosts: all
+  name: roles in ansible
+  roles:
+    - httpd
+    - sqlserver

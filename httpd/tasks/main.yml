@@ -1,0 +1,4 @@
+---
+# tasks file for httpd
+- name: task1
+  command: touch httpd.txt
